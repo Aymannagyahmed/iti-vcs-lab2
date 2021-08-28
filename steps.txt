@@ -18,3 +18,10 @@ function D(){
     HBFDV,;A
     HDFJ;A
 }
+
+
+function E()
+{
+	bgyikngky
+	bfubf
+}
