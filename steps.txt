@@ -18,3 +18,24 @@ function D(){
     HBFDV,;A
     HDFJ;A
 }
+
+function E(){
+    bvjLAMK,
+    HBFDV,;A
+    HDFJ;A
+}
+function F(){
+    bvjLAMK,
+    HBFDV,;A
+    HDFJ;A
+}
+function G(){
+    bvjLAMK,
+    HBFDV,;A
+    HDFJ;A
+}
+function H(){
+    bvjLAMK,
+    HBFDV,;A
+    HDFJ;A
+}
