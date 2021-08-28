@@ -24,3 +24,10 @@ function D(){
     HDFJ;A
     }
 }
+
+
+function E()
+{
+	bgyikngky
+	bfubf
+}
