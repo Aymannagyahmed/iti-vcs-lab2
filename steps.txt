@@ -13,8 +13,14 @@ function C(){
     HBFDV,;A
     HDFJ;A
 }
+function x(){
+    aqaaaaaaaaaa
+}
+
 function D(){
+    function D(){
     bvjLAMK,
     HBFDV,;A
     HDFJ;A
+    }
 }
